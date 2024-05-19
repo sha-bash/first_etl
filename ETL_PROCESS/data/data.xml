@@ -1,0 +1,72 @@
+<products>
+  <product>
+    <id>1</id>
+    <name>Product 1</name>
+    <price>20</price>
+    <quantity>2</quantity>
+    <category>Electronics</category>
+  </product>
+  <product>
+    <id>2</id>
+    <name>Product 2</name>
+    <price>30</price>
+    <quantity>1</quantity>
+    <category>Clothing</category>
+  </product>
+  <product>
+    <id>3</id>
+    <name>Product 3</name>
+    <price>15</price>
+    <quantity>5</quantity>
+    <category>Home-Kitchen</category>
+  </product>
+  <product>
+    <id>4</id>
+    <name>Product 4</name>
+    <price>50</price>
+    <quantity>3</quantity>
+    <category>Beauty</category>
+  </product>
+  <product>
+    <id>5</id>
+    <name>Product 5</name>
+    <price>9999</price>
+    <quantity>1</quantity>
+    <category>Electronics</category>
+  </product>
+  <product>
+    <id>6</id>
+    <name>Product 6</name>
+    <price>45</price>
+    <quantity>10</quantity>
+    <category>Sports-Outdoors</category>
+  </product>
+  <product>
+    <id>7</id>
+    <name>Product 7</name>
+    <price>25</price>
+    <quantity>4</quantity>
+    <category>Books</category>
+  </product>
+  <product>
+    <id>8</id>
+    <name>Product 8</name>
+    <price>70</price>
+    <quantity>2</quantity>
+    <category>Toys</category>
+  </product>
+  <product>
+    <id>9</id>
+    <name>Product 9</name>
+    <price>40</price>
+    <quantity>2</quantity>
+    <category>Electronics</category>
+  </product>
+  <product>
+    <id>10</id>
+    <name>Product 10</name>
+    <price>60</price>
+    <quantity>3</quantity>
+    <category>Home-Kitchen</category>
+  </product>
+</products>

@@ -1,0 +1,73 @@
+[
+    {
+      "id": 1,
+      "name": "Product 1",
+      "price": 20,
+      "quantity": 2,
+      "category": "Electronics"
+    },
+    {
+      "id": 2,
+      "name": "Product 2",
+      "price": 30,
+      "quantity": 1,
+      "category": "Clothing"
+    },
+    {
+      "id": 3,
+      "name": "Product 3",
+      "price": 15,
+      "quantity": 5,
+      "category": "Home & Kitchen"
+    },
+    {
+      "id": 4,
+      "name": "Product 4",
+      "price": 50,
+      "quantity": 3,
+      "category": "Beauty"
+    },
+    {
+      "id": 5,
+      "name": "Product 5",
+      "price": 9999,
+      "quantity": 1,
+      "category": "Electronics"
+    },
+    {
+      "id": 6,
+      "name": "Product 6",
+      "price": 45,
+      "quantity": 10,
+      "category": "Sports & Outdoors"
+    },
+    {
+      "id": 7,
+      "name": "Product 7",
+      "price": 25,
+      "quantity": 4,
+      "category": "Books"
+    },
+    {
+      "id": 8,
+      "name": "Product 8",
+      "price": 70,
+      "quantity": 2,
+      "category": "Toys"
+    },
+    {
+      "id": 9,
+      "name": "Product 9",
+      "price": 40,
+      "quantity": 2,
+      "category": "Electronics"
+    },
+    {
+      "id": 10,
+      "name": "Product 10",
+      "price": 60,
+      "quantity": 3,
+      "category": "Home & Kitchen"
+    }
+  ]
+  
